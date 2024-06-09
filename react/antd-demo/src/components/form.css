@@ -1,0 +1,10 @@
+#newFile{
+    display: flex;
+    flex-direction: row;
+}
+#newFile1{
+    flex:5;
+}
+#newFile{
+    flex:2;
+}

@@ -1,0 +1,9 @@
+/* 移除 Quill 编辑器的边框 */
+.ql-container.ql-snow {
+    border: none;
+    /* 移除边框 */
+}
+
+.ql-toolbar.ql-snow {
+    border: none;
+}
